@@ -1,0 +1,1 @@
+In this folder, upload the video files that you want to be animated in Desmos! Do make sure to change "filename.mp4" to the file name that you wanted to be converted to an animation in the frontendpy.py and the backendjs.js!
